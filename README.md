@@ -1,2 +1,2 @@
 # hello-world
-testing how github work lol
+Welp the whole purpose of this shit is to make discord bot.
